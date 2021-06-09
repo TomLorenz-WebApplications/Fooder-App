@@ -13,14 +13,13 @@ Of course, every food we use is local and biological.
  
 Right now Fooder relies on handwritten meal plans and shopping lists, we want to digitalize the process instead. 
 We want to provide digital recipes and the shopping list according to the recipes. 
-However we would like to include our Community more and enable them to create their own recipes and 
-of course write the shopping list to for those recipes. 
-Speaking of Community we also want Social-Features there such as Comments and a Rating-System. 
+Furthermore, we would like to include our community into this project and enable them to create their own recipes and shopping lists based on the recipes. 
+Speaking of Community, we also want to enable _Social-Features_ such as Comments and a Rating-System in order to provide transparency and let the community interact with each other.
 
-The app should run at the domain :
-* healthyfooder.de
-with the Title :
-* Healthy Food for your Lifestyle
+The app should run at the domain
+* `healthyfooder.de`
+with the title :
+* Healthy Food for your Lifestyle!
 The title should change based on Categories like recipes or shopping lists.
 
 
@@ -29,10 +28,10 @@ The title should change based on Categories like recipes or shopping lists.
 * Create a Account
 * Log-In to Account
 * Create a recipe
-* See and Save/Like recipes
-* print shopping list based on recipe or recipes
-* Comment and Rate a recipe
+* Show and save/like recipes
+* Print shopping list based on recipe(s)
+* Comment on and rate a recipe
 * Edit your own recipes 
 * Edit your own shopping-list
-*  
+* Combine recipes to menus
 
