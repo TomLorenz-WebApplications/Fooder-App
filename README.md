@@ -33,3 +33,4 @@ Speaking of Community, we also want to enable _Social-Features_ such as Comments
 * Edit your own shopping-list
 * Combine recipes to menus
 * Show, save and like menus
+* Search recipes and menus based on categories (cake, main dish, dessert,... german/french/british,... dishes)
