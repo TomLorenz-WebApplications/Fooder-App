@@ -16,9 +16,8 @@ We want to provide digital recipes and the shopping list according to the recipe
 Furthermore, we would like to include our community into this project and enable them to create their own recipes and shopping lists based on the recipes. 
 Speaking of Community, we also want to enable _Social-Features_ such as Comments and a Rating-System in order to provide transparency and let the community interact with each other.
 
-The app should run at the domain
-* `healthyfooder.de` with the title _*Healthy Food for your Lifestyle!*_
-The title should change based on Categories like recipes or shopping lists.
+* The app should run at the domain `healthyfooder.de` with the title _*Healthy Food for your Lifestyle!*_
+* The title should change based on Categories like recipes or shopping lists.
 
 
 # Required Use-Cases from us:
