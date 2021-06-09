@@ -1,20 +1,20 @@
 # Fooder - Company Description
 
-Fooder is a online-buisness focussing on providing healthy and cost-efficient food too its customers. 
+Fooder is a online-buisness focussing on providing healthy and cost-efficient food to its customers. 
 At Fooder everything should be easy and good for the customers as much as it is possible. 
 We provide recipes for food and build shopping lists for those recipes. 
 Foodplans and diet-plans are a part of our buisness modell. With Fooder-Premium we 
-even provide you delivery-service for your groceries so that u dont need too shop them yourself. 
-The Buisness is based on Subscriptionplans avaible for 3 Categories such as Free, Member and Pro. 
-Free can only read recipes, Member get also Shopping List and Pro can use the delivery Service too!
-Of course every food we use is local and biological. 
+even provide you delivery-service for your groceries so that you dont need to shop them yourself. 
+The Business is based on subscription-plans avaiable for 3 categories such as _Free_, _Member_ and _Pro_. 
+With the _Free_ option one can only read recipes -- Member includes a Shopping List and with _Pro_ one can use the delivery service too!
+Of course, every food we use is local and biological. 
 
 # Fooder - App
  
-Right now Fooder relies on handwritten meal plans and shopping lists, we want that this gets digitalized. 
-We want too provide digital recipes and the shopping list according too the recipes. 
-However we would like too include our Community more and enable them too create their own recipes and 
-of course write the shopping list too for those recipes. 
+Right now Fooder relies on handwritten meal plans and shopping lists, we want to digitalize the process instead. 
+We want to provide digital recipes and the shopping list according to the recipes. 
+However we would like to include our Community more and enable them to create their own recipes and 
+of course write the shopping list to for those recipes. 
 Speaking of Community we also want Social-Features there such as Comments and a Rating-System. 
 
 The app should run at the domain :
