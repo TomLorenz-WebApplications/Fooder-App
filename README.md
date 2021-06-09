@@ -17,9 +17,7 @@ Furthermore, we would like to include our community into this project and enable
 Speaking of Community, we also want to enable _Social-Features_ such as Comments and a Rating-System in order to provide transparency and let the community interact with each other.
 
 The app should run at the domain
-* `healthyfooder.de`
-with the title :
-* Healthy Food for your Lifestyle!
+* `healthyfooder.de` with the title _*Healthy Food for your Lifestyle!*_
 The title should change based on Categories like recipes or shopping lists.
 
 
