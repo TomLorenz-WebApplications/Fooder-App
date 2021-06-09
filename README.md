@@ -17,7 +17,7 @@ Furthermore, we would like to include our community into this project and enable
 Speaking of Community, we also want to enable _Social-Features_ such as Comments and a Rating-System in order to provide transparency and let the community interact with each other.
 
 * The app should run at the domain `healthyfooder.de` with the title _*Healthy Food for your Lifestyle!*_
-* The title should change based on Categories like recipes or shopping lists.
+* The title should change based on categories like recipes or shopping lists.
 * The color scheme should include the colors green, white and/or orange
 
 
@@ -26,10 +26,10 @@ Speaking of Community, we also want to enable _Social-Features_ such as Comments
 * Create a Account
 * Log-In to Account
 * Create a recipe
-* Show and save/like recipes
+* Show, save and like recipes
 * Print shopping list based on recipe(s)
 * Comment on and rate a recipe
 * Edit your own recipes 
 * Edit your own shopping-list
 * Combine recipes to menus
-
+* Show, save and like menus
