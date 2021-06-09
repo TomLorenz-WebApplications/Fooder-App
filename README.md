@@ -18,6 +18,7 @@ Speaking of Community, we also want to enable _Social-Features_ such as Comments
 
 * The app should run at the domain `healthyfooder.de` with the title _*Healthy Food for your Lifestyle!*_
 * The title should change based on Categories like recipes or shopping lists.
+* The color scheme should include the colors green, white and/or orange
 
 
 # Required Use-Cases from us:
