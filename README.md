@@ -23,30 +23,30 @@ Speaking of Community, we also want to enable _Social-Features_ such as Comments
 
 # Required Use-Cases from us:
 
-* Create a Account
+###### Create a Account
 a User should be able too create a new Account with login-name, email, password and has too decide for a Subscription (Free, Member and Pro) 
-* Log-In to Account
+###### Log-In to Account
 a User should be able too login into his Account with login-name or email + his password. After login he should be redirected too a Overview-Page
-* Create a recipe
+###### Create a recipe
 logged in users should have the ability too create a recipe which consists of Pictures, Text and a Shopping List.
-* Show, save and like recipes
+###### Show, save and like recipes
 a User should see recipes from other users and he can save them in a "save-for-later" list and also like them too support the recipes in ranking from the app.
-* Print shopping list based on recipe(s)
+###### Print shopping list based on recipe(s)
 Every User should be able too retrieve a list for shopping based on his recepts. Pro and Member users should have the option too combine more than 1 receipts and shopping list
 will automatically include all grocerys for all recipes
-* Comment on and rate a recipe
+###### Comment on and rate a recipe
 at the bottom of every recipe should be a commentary section where one can comment and give 1-5 stars for the recipe. Later on it should also be possible too sort 
 recipes based on their stars
-* Edit your own recipes 
+###### Edit your own recipes 
 Selfmade recipes should be editable. Changing text or pictures should both be possible
-* Edit your own shopping-list
+###### Edit your own shopping-list
 a shopping list should be editable in case something in the recipe changes and shopping lists needs too be updated too. 
-* Assign Category too Recipe
+###### Assign Category too Recipe
 a recipe should have a category like (breakfast, lunch, dessert) so users can search for a category like they only want desert recipes
-* Combine recipes to menus
+###### Combine recipes to menus
 a user can create menus from recipes. Therefor we have 3 or 5 cours-menus. e.g. a 3 course menu consists off starter, main course and desert. For the menu one need to add a recipe from each category.
-* Show, save and like menus
+###### Show, save and like menus
 menus can be handled like recipes. They can also get seen by others, get saved and liked. Comments could be also possible.
-* Search recipes and menus based on tags 
+###### Search recipes and menus based on tags 
 add tags too recipes like "vegan" or "cake" for search optimisation. A Tag can be predefined and choosen. Pro-Users and Admins can create new ones. 
 The tags should help too filter recipes based on tags like every vegan-dish should have a "vegan" tag.
