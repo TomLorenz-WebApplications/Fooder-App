@@ -50,3 +50,7 @@ menus can be handled like recipes. They can also get seen by others, get saved a
 ## Search recipes and menus based on tags 
 add tags too recipes like "vegan" or "cake" for search optimisation. A Tag can be predefined and choosen. Pro-Users and Admins can create new ones. 
 The tags should help too filter recipes based on tags like every vegan-dish should have a "vegan" tag.
+## Visit Accounts and see all recipes they created
+a User should click on a other user and see all of his recipes. This is usefull in case you like a recipe from a person and want too see if he has others published. 
+## Set visibility for recipes
+a User can define the visibility for his own recipes. There should be 3 options - published, hidden and deleted. A published recipe is visible for users. A hidden recipe is only visible for the creator and a deleted recipe is only visible for admins (about this could be talked, deleted recipes can be instantly deleted or saved for admin-review before deletion)
