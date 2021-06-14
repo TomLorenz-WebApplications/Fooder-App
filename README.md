@@ -1,7 +1,7 @@
 # Fooder - Company Description
 
 Fooder is a online-business focussing on providing healthy and cost-efficient food to its customers. 
-At Fooder everything should be easy and good for the customers as much as it is possible. 
+At Fooder everything is easy and fast for the customers as much as it is possible. 
 We provide recipes for food and build shopping lists for those recipes. 
 Foodplans and diet-plans are a part of our business model. With Fooder-Premium we 
 even provide you delivery-service for your groceries so that you dont need to shop them yourself. 
