@@ -24,33 +24,33 @@ Speaking of Community, we also want to enable _Social-Features_ such as Comments
 # Required Use-Cases from us:
 
 ## Create a Account
-a User should be able too create a new Account with login-name, email, password and has too decide for a Subscription (Free, Member and Pro) 
+A User should be able to create a new Account with his login-name, E-Mail, password and has to decide for a subscription-plan (Free, Member and Pro) 
 ## Log-In to Account
-a User should be able too login into his Account with login-name or email + his password. After login he should be redirected too a Overview-Page
+A User should be able to login into his account with login-name or E-Mail and his password. After login he should be redirected to an overview page
 ## Create a recipe
-logged in users should have the ability too create a recipe which consists of Pictures, Text and a Shopping List.
+Users that are logged in should have the ability to create a recipe which consists of pictures, text and a shopping list.
 ## Show, save and like recipes
-a User should see recipes from other users and he can save them in a "save-for-later" list and also like them too support the recipes in ranking from the app.
+A User should see recipes from other users and should be able to save them in a "save-for-later" list and also give them a like to support the recipe and boost the popularity of its creator.
 ## Print shopping list based on recipe(s)
-Every User should be able too retrieve a list for shopping based on his recepts. Pro and Member users should have the option too combine more than 1 receipts and shopping list
-will automatically include all grocerys for all recipes
+Every User should be able to retrieve a list for shopping based on his recepts. Pro and Member users should have the option to combine more than one recipe and the shopping list
+will automatically include all groceries for all recipes
 ## Comment on and rate a recipe
-at the bottom of every recipe should be a commentary section where one can comment and give 1-5 stars for the recipe. Later on it should also be possible too sort 
-recipes based on their stars
+At the bottom of every recipe should be a commentary section where one can comment and give 1-5 stars for the recipe. Later on, it should also be possible to sort 
+recipes based on their stars.
 ## Edit your own recipes 
-Selfmade recipes should be editable. Changing text or pictures should both be possible
+Selfmade recipes should be editable. Changing text or pictures should both be possible.
 ## Edit your own shopping-list
-a shopping list should be editable in case something in the recipe changes and shopping lists needs too be updated too. 
+A shopping list should be editable in case something in the recipe changes and shopping lists needs to be updated too. 
 ## Assign Category too Recipe
-a recipe should have a category like (breakfast, lunch, dessert) so users can search for a category like they only want desert recipes
+A recipe should have a category like (breakfast, lunch, dessert) so users can search for a category.
 ## Combine recipes to menus
-a user can create menus from recipes. Therefor we have 3 or 5 cours-menus. e.g. a 3 course menu consists off starter, main course and desert. For the menu one need to add a recipe from each category.
+A user can create menus from recipes. Therefore we have 3 or 5 course-menus. e.g. a 3 course menu consists off starter, main course and desert. For the menu one need to add a recipe from each category.
 ## Show, save and like menus
-menus can be handled like recipes. They can also get seen by others, get saved and liked. Comments could be also possible.
+Menus can be handled like recipes. They can also be seen by others, get saved and be liked. Comments could also be possible.
 ## Search recipes and menus based on tags 
-add tags too recipes like "vegan" or "cake" for search optimisation. A Tag can be predefined and choosen. Pro-Users and Admins can create new ones. 
-The tags should help too filter recipes based on tags like every vegan-dish should have a "vegan" tag.
+Add tags to recipes like "vegan" or "cake" for search optimization. A tag can be predefined and choosen. Pro-Users and Admins can create new ones. 
+The tags should help to filter recipes based on tags. For example, every vegan dish should have a "vegan" tag.
 ## Visit Accounts and see all recipes they created
-a User should click on a other user and see all of his recipes. This is usefull in case you like a recipe from a person and want too see if he has others published. 
+A User should be able to click on other users and see all of his recipes. This is usefull in case you like a recipe from a person and want to see if he has other published items. 
 ## Set visibility for recipes
-a User can define the visibility for his own recipes. There should be 3 options - published, hidden and deleted. A published recipe is visible for users. A hidden recipe is only visible for the creator and a deleted recipe is only visible for admins (about this could be talked, deleted recipes can be instantly deleted or saved for admin-review before deletion)
+A User can define the visibility for his own recipes. There should be three options - published, hidden and deleted. A published recipe is visible for users. A hidden recipe is only visible for the creator and a deleted recipe is only visible for admins (deleted recipes can be instantly deleted or saved for admin-review before deletion).
