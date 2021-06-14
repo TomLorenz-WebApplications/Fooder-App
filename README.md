@@ -1,7 +1,9 @@
 # Fooder - Company Description
 
 Fooder is a online-business focussing on providing healthy and cost-efficient food to its customers. Currently, our company has ten thousand employees in several branches around the globe. The owners are Mr Behm and Lorenz, who are also the branch managers of the Berlin location in Germany. 
+
 The history of Fooder goes back to 2010. Back then, two prospective IT studies graduates had the idea to develop a recipe system to make cooking more attractive and easier for everyone in the world. In the course of the last few years, many new functions were added and Fooder developed into an internationally recognised company. At the same time, the number of visitors and purchases increased, which is why our technical components are constantly changing in order to be able to integrate the latest technologies into our concepts.
+
 At Fooder everything is easy and fast for the customers as much as it is possible. 
 We at Fooder provide recipes for food and build shopping lists for those recipes. 
 Foodplans and diet-plans are a part of our business model. With Fooder-Premium we 
@@ -9,6 +11,7 @@ even provide you delivery-service for your groceries so that you dont need to sh
 The Business is based on subscription-plans avaiable for three categories such as _Free_, _Member_ and _Pro_. 
 With the _Free_ subscription one can only read recipes — _Member_ includes a shopping list and with _Pro_ one can use the delivery service too!
 Of course, our food is only provided by local food producers and therefore also meets the requirements for organic food.
+
 In the future we would like to establish a market monopoly - anyone who wants to put together recipes or just wants to recreate something - they will do it on Fooder! 
 
 # Fooder - App
